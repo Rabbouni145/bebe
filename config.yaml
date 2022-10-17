@@ -30,7 +30,7 @@ menu:
     - identifier: blog
       name: Blog
       weight: 2
-    - name: Posts
+    - name: Baise
       parent: blog
       url: /posts/
       weight: 1
